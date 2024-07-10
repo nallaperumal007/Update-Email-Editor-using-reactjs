@@ -34,16 +34,17 @@ function Dashboard() {
                 columns: "列",
               },
               zh_TW: {
-                drag_block_here: "請將模組拖曳到此處",
-                blocks: "模組",
-                photos: "圖片",
-                loading: "載入中...",
-                content: "內容",
-                body_settings: "郵件主旨設定",
-                pre_header: "預標題",
-                pre_header_description: "預標題是在收件匣中查看電子郵件時跟隨主題行的簡短摘要文字。",
-                confirm: "確認",
-                cancel: "取消",
+               drag_block_here: "Drag block here",
+                blocks: "Blocks",
+                photos: "Photos",
+                loading: "Loading...",
+                content: "Content",
+                body_settings: "Email Subject Settings",
+                pre_header: "Preheader",
+                pre_header_description:
+                  "A preheader is a short summary text that follows the subject line when viewing an email in the inbox.",
+                confirm: "Confirm",
+                cancel: "Cancel",
                 // ........
               },
             }}
